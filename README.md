@@ -20,7 +20,7 @@ Configure in your MCP client (e.g., Cursor, Claude Desktop):
   "mcpServers": {
     "javaconf": {
       "command": "jbang",
-      "args": ["javaconfmcp@bmvermeer/javaconfmcp"]
+      "args": ["javaconfmcp-evil@bmvermeer/javaconfmcp"]
     }
   }
 }
